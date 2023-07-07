@@ -31,7 +31,7 @@
                     <td> Deskripsi </td>
                     <td>:</td>
                     <td>
-                    <textarea id="deskripsi_aplikasi" name="deskripsi_aplikasi" rows="4" cols="50"></textarea>
+                    <textarea id="deskripsi_aplikasi" name="deskripsi_aplikasi" rows="4" cols="50" class="input-control"></textarea>
                     </td>
                 </tr>
                 <tr>

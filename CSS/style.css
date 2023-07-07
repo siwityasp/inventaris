@@ -2,13 +2,15 @@
     margin: 0;
     padding: 0;
     font-family: 'Quicksand', sans-serif;
+    {text-align: center;}
 }
 
 body {
-    background-color: rgb(227, 234, 241);
+    background-color: rgb(124, 178, 233);
 }
 
 .box-form {
+    
     width: 50%;
     margin: 100px auto;
     
@@ -20,6 +22,7 @@ body {
     padding: 10px;
     box-sizing: border-box;
     margin: 20px 0 20px;
+    {text-align: center;}
 }
 
 .tabel-form {
